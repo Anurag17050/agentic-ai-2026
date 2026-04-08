@@ -1,0 +1,282 @@
+[
+  {
+    "input": "calculate 3+4/5-(2*4)",
+    "tool": "calculator",
+    "output": "-4.2"
+  },
+  {
+    "input": "can you solve the expression 3+4/5-(2*4) and give its result",
+    "tool": "calculator",
+    "output": "-4.2"
+  },
+  {
+    "input": "hi!",
+    "tool": "greet",
+    "output": "Hello! How can I help you?"
+  },
+  {
+    "input": "hi! can you solve the expression 3+4/5-(2*4) and give its result",
+    "tool": "calculator",
+    "output": "-4.2"
+  },
+  {
+    "input": "give me a summary on mathematics",
+    "tool": "summarizer",
+    "output": "Mathematics is a vast and complex field that encompasses various branches of study, including algebra, geometry, and calculus. It involves the use of numbers, symbols, and equations to describe and analyze relationships, patterns, and structures in the world around us. Through mathematical concepts and techniques, we can solve problems, model real-world phenomena, and make informed decisions in various fields, from science and engineering to economics and finance."
+  },
+  {
+    "input": "summarize the text : students are naughty",
+    "tool": "summarizer",
+    "output": "Some students can be quite mischievous and disobedient, often testing boundaries and pushing limits. This behavior can be challenging for teachers and educators to manage, but it's also a normal part of childhood development. Overall, students' naughty behavior is a common phenomenon that requires patience, understanding, and effective guidance to help them learn and grow."
+  },
+  {
+    "input": "summarize height of tower",
+    "tool": "summarizer",
+    "output": "The height of a tower refers to its vertical measurement from the base to the top. This can be measured in various units such as meters, feet, or inches, and is an important factor in the design and construction of towers. The height of a tower can also impact its visibility, stability, and overall functionality."
+  },
+  {
+    "input": "is 1221 palindrome?",
+    "tool": "palindrome",
+    "output": "1221 is Palindrome"
+  },
+  {
+    "input": "count the words in the text : lion is the king of the forest",
+    "tool": "word_count",
+    "output": "Word count: 7"
+  },
+  {
+    "input": "what is the weather today",
+    "tool": "weather",
+    "output": "Today's forecast is calling for partly cloudy skies with a high of 75 degrees and a gentle breeze, with a slight chance of scattered showers later this evening. As the day progresses, expect the clouds to clear, making way for a beautiful sunset and a calm night ahead."
+  },
+  {
+    "input": "what is climate at new york",
+    "tool": "weather",
+    "output": "A low-pressure system is currently moving into the New York area, bringing with it a chance of scattered thunderstorms and cooler temperatures. Expect a high of 58 degrees Fahrenheit today, with a gradual warming trend expected to return by the weekend."
+  },
+  {
+    "input": "can u give me the date and time",
+    "tool": "datetime",
+    "output": "Date: 2026-04-06 Time: 21:05:14.696858"
+  },
+  {
+    "input": "what is todays date",
+    "tool": "datetime",
+    "output": "Date: 2026-04-06 Time: 21:05:23.578347"
+  },
+  {
+    "input": "today's date only",
+    "tool": "datetime",
+    "output": "Date: 2026-04-06 Time: 21:05:37.379021"
+  },
+  {
+    "input": "what is the time now?",
+    "tool": "datetime",
+    "output": "Date: 2026-04-06 Time: 21:05:51.219124"
+  },
+  {
+    "input": "evaluate the expression 3+4/5-(2*4)",
+    "tool": "calculator",
+    "output": "-4.2"
+  },
+  {
+    "input": "hi! can you solve 3+4/5-(2*4)",
+    "tool": "greet",
+    "output": "Hello! How can I help you?"
+  },
+  {
+    "input": "hi! can you solve 3+4/5-(2*4)",
+    "tool": "calculator",
+    "output": "-4.2"
+  },
+  {
+    "input": "summarize AI is transforming the world rapidly. and then count the words",
+    "tool": "summarizer",
+    "output": "The integration of artificial intelligence (AI) is happening at a breakneck pace, revolutionizing various aspects of our lives. As AI technology advances, it's having a profound impact on numerous industries and sectors, from healthcare to finance. This rapid transformation is bringing about significant changes and innovations that are reshaping the world as we know it."
+  },
+  {
+    "input": "summarize AI is transforming the world rapidly. and then count the words",
+    "tool": "word_count",
+    "output": "Word count: 6"
+  },
+  {
+    "input": "summarize AI is transforming the world rapidly. and then count the words of the summary",
+    "tool": "summarizer",
+    "output": "The world is undergoing a rapid change due to the increasing presence and influence of artificial intelligence. AI is revolutionizing various aspects of life, from technology and industry to daily routines and interactions. As a result, the way we live, work, and communicate is being fundamentally transformed at an unprecedented pace."
+  },
+  {
+    "input": "summarize AI is transforming the world rapidly. and then count the words of the summary",
+    "tool": "word_count",
+    "output": "Word count: 6"
+  },
+  {
+    "input": "what is todays date?",
+    "tool": "datetime",
+    "output": "Date: 2026-04-06"
+  },
+  {
+    "input": "what is todays date and time",
+    "tool": "datetime",
+    "output": "Date: 2026-04-06 | Time: 21:15:49"
+  },
+  {
+    "input": "what is the time now?",
+    "tool": "datetime",
+    "output": "Time: 21:15:58"
+  },
+  {
+    "input": "greet me first then evaluate the expresion 3+4/5-(2*4)",
+    "tool": "greet",
+    "output": "Hello! How can I help you?"
+  },
+  {
+    "input": "greet me first then evaluate the expresion 3+4/5-(2*4)",
+    "tool": "calculator",
+    "output": "-4.2"
+  },
+  {
+    "input": "how is climate now?",
+    "tool": "weather",
+    "output": "Currently, a high-pressure system is dominating the region, bringing clear skies and mild temperatures, with a gentle breeze blowing in from the west. As we head into the evening, expect a gradual cooldown with a low of 58 degrees and a chance of scattered clouds."
+  },
+  {
+    "input": "what is weather condition tomorrow?",
+    "tool": "weather",
+    "output": "Tomorrow's forecast is calling for partly cloudy skies with a high of 75 degrees and a gentle breeze. There's a slight chance of scattered showers in the late afternoon, but overall it should be a pleasant day."
+  },
+  {
+    "input": "is madam palindrome or not?",
+    "tool": "palindrome",
+    "output": "madam is Palindrome"
+  },
+  {
+    "input": "is 1234565432 palindrome",
+    "tool": "palindrome",
+    "output": "12345654321 is Palindrome"
+  },
+  {
+    "input": "is 123 palindrome",
+    "tool": "palindrome",
+    "output": "123 is Not Palindrome"
+  },
+  {
+    "input": "check whether 56432 is palindrome or not?",
+    "tool": "palindrome",
+    "output": "56432 is Not Palindrome"
+  },
+  {
+    "input": "check whether whether is palidrome or not",
+    "tool": "palindrome",
+    "output": "No valid input"
+  },
+  {
+    "input": "check whether whether is palidrome or not",
+    "tool": "weather",
+    "output": "No weather query provided"
+  },
+  {
+    "input": "check if 'wether' is palindrome or not?",
+    "tool": "palindrome",
+    "output": "wether is Not Palindrome"
+  },
+  {
+    "input": "check whether 'wether' is palindrome or not?",
+    "tool": "palindrome",
+    "output": "wether is Not Palindrome"
+  },
+  {
+    "input": "check whether 'whether'  is palindrome or not?",
+    "tool": "palindrome",
+    "output": "No valid input"
+  },
+  {
+    "input": "how are you",
+    "tool": "greet",
+    "output": "Hello! How can I help you?"
+  },
+  {
+    "input": "calculate the value of (3-5)*(2/4)+3-10",
+    "tool": "calculator",
+    "output": "-8.0"
+  },
+  {
+    "input": "hello! can you please give me the result of the expression 4-3+2",
+    "tool": "greet",
+    "output": "Hello! How can I help you?"
+  },
+  {
+    "input": "hello! can you please give me the result of the expression 4-3+2",
+    "tool": "calculator",
+    "output": "3"
+  },
+  {
+    "input": "check whether together is palindrome or not and after that tell me the current weather status",
+    "tool": "palindrome",
+    "output": "together is Not Palindrome"
+  },
+  {
+    "input": "check whether together is palindrome or not and after that tell me the current weather status",
+    "tool": "weather",
+    "output": "Currently, a gentle breeze is sweeping through the area with partly cloudy skies and a temperature of 72 degrees Fahrenheit. Expect a slight chance of scattered showers later this evening, with clear skies returning by tomorrow morning."
+  },
+  {
+    "input": "check whether 123454321 is palindrome or not and after that tell me the current time",
+    "tool": "palindrome",
+    "output": "123454321 is Palindrome"
+  },
+  {
+    "input": "check whether 123454321 is palindrome or not and after that tell me the current time",
+    "tool": "datetime",
+    "output": "Time: 16:40:32"
+  },
+  {
+    "input": "give me a summary on lion",
+    "tool": "summarizer",
+    "output": "A lion is a large, carnivorous mammal known as the \"king of the jungle\" due to its powerful physique and dominant presence in its natural habitat. Lions are social animals that live in prides, typically consisting of several females, their cubs, and one or more males. They are native to Africa and India, and are recognized by their distinctive manes and fierce roars."
+  },
+  {
+    "input": "summarize hero",
+    "tool": "summarizer",
+    "output": "A hero is an individual who demonstrates extraordinary courage, selflessness, and determination, often putting the needs of others before their own. They inspire and motivate others through their actions, and their bravery can have a profound impact on those around them. By embodying these qualities, heroes can bring about positive change and leave a lasting legacy."
+  },
+  {
+    "input": "can you please summarize the sentence : iam a superhero",
+    "tool": "summarizer",
+    "output": "This person claims to possess extraordinary abilities, making them a heroic figure with a mission to protect and serve. As a self-proclaimed superhero, they likely have a strong sense of justice and a desire to make a positive impact on the world. With their unique powers and courageous spirit, they are ready to take on challenges and save the day."
+  },
+  {
+    "input": "can you please summarize the text : mango",
+    "tool": "summarizer",
+    "output": "A mango is a sweet and juicy tropical fruit native to South Asia. It's known for its vibrant yellow or orange color and creamy texture, making it a popular ingredient in various dishes and desserts. Mangoes are also rich in nutrients, including vitamins and minerals, and are often eaten fresh or used in a range of culinary applications."
+  },
+  {
+    "input": "summarize maths",
+    "tool": "summarizer",
+    "output": "Mathematics, often referred to as \"maths,\" is a field of study that deals with numbers, quantities, and shapes. It involves the use of logical and analytical reasoning to solve problems and understand various concepts, such as algebra, geometry, and calculus. Mathematics is a fundamental subject that has numerous applications in science, technology, and everyday life."
+  },
+  {
+    "input": "can count no.of english alphabets",
+    "tool": "word_count",
+    "output": "Word count: 4"
+  },
+  {
+    "input": "lion is the king of the jungle, count the words in whole command",
+    "tool": "word_count",
+    "output": "Word count: 13"
+  },
+  {
+    "input": "lion is the king of the jungle, count the words in the sentence asked only",
+    "tool": "word_count",
+    "output": "Word count: 7"
+  },
+  {
+    "input": "what is date and time",
+    "tool": "datetime",
+    "output": "Date: 2026-04-07 | Time: 16:43:32"
+  },
+  {
+    "input": "thank you",
+    "tool": "unknown",
+    "output": "Sorry, I don't understand that."
+  }
+]
